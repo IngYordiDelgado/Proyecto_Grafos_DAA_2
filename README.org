@@ -1,4 +1,4 @@
-#+TITLE: Proyecto  1 de la asignatura de Diseño y Análisis de Algoritmos
+#+TITLE: Proyecto  2 de la asignatura de Diseño y Análisis de Algoritmos
 #+author: Yordi Edgardo Delgado Ortiz 
 
 #+STARTUP:  CONTENT
@@ -19,7 +19,8 @@ se desarrollaron los métodos en la clase Grafo:
 * Imágenes de los Modelos Generadas con gephi
 * Modelo de Mallas
 ** 30 nodos(5x6)
-[[./img/Imagenes/Mallas/mallas_30_nodos.png]]
+[[./img/Images/Mallas/mallas_30.png]]
+[./img/Images/Mallas/mallas_30_dfs.png]]
 
 ** 100 nodos(10x10)
 [[./img/Imagenes/Mallas/mallas_100_nodos.png]]
