@@ -1,0 +1,77 @@
+#+TITLE: Proyecto  1 de la asignatura de Diseño y Análisis de Algoritmos
+#+author: Yordi Edgardo Delgado Ortiz 
+
+#+STARTUP:  CONTENT
+
+* Desarrollador :
+Yordi Edgardo Delgado Ortiz 
+
+* Información:
+Biblioteca para describir y utilizar grafos.
+
+El presente Código fue desarrollado de acuerdo con las especificaciones proporcionadas, contiene las 3 clases requeridas Grafo, Nodo, Arista, así como una clase parser_writer que se encarga de hacer la conversión a lenguaje .dot y guardar el grafo generado en formato Graphviz.
+
+Se generaron las imágenes correspondientes a cada modelo, las cuales se muestran a continuación 
+
+ 
+* Imágenes de los Modelos Generadas con gephi
+* Modelo de Mallas
+** 30 nodos(5x6)
+[[./img/Imagenes/Mallas/mallas_30_nodos.png]]
+
+** 100 nodos(10x10)
+[[./img/Imagenes/Mallas/mallas_100_nodos.png]]
+
+** 500 nodos(50x10)
+[[./img/Imagenes/Mallas/mallas_500_nodos.png]]
+
+* Modelo de Erdos y Renyi
+** 30 Nodos y 200 Aristas
+[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_30_200.png ]]
+
+
+** 100 Nodos y 400 Aristas
+[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_100_400.png ]]
+
+
+** 500 Nodos y 2500 Aristas
+[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_500_2500.png ]]
+
+* Modelo de Gilbert
+** 30 nodos y probabilidad 0.5
+[[./img/Imagenes/Gilbert/grafo_gilbert_30_5.png]]
+
+** 100 nodos y probabilidad 0.3
+[[./img/Imagenes/Gilbert/grafo_gilbert_100_03.png]]
+
+** 500 nodos y probabilidad 0.02
+[[./img/Imagenes/Gilbert/grafo_gilbert_500_002.png]]
+* Modelo Geográfico
+** 30 nodos y distancia 0.5
+[[./img/Imagenes/Geografico/grafo_geografico_30_05.png]]
+
+** 100 nodos y distancia 0.3
+
+[[./img/Imagenes/Geografico/grafo_geografico_100_03.png]]
+
+** 500 nodos y distancia 0.1
+
+[[./img/Imagenes/Geografico/grafo_geografico_500_01.png]]
+
+* Modelo Barabasi
+** 30 nodos y grado 10
+[[./img/Imagenes/Babarasi/grafo_babarasi_30_10.png]]
+
+** 100 nodos y grado 7
+[[./img/Imagenes/Babarasi/grafo_babarasi_100_07.png]]
+
+** 500 nodos y grado 12
+[[img/Imagenes/Babarasi/grafo_babarasi_500_12.png]]
+
+* Modelo Dorogovtsev
+** 30 nodos
+[[./img/Imagenes/Dogorostev/grafo_dorogovtsev_mendes_30.png]]
+** 100 nodos
+[[img/Imagenes/Dogorostev/grafo_dorogovtsev_mendes_100.png]]
+** 500 nodos
+[[img/Imagenes/Dogorostev/grafo_dorogovtsev_mendes_500.png]]
