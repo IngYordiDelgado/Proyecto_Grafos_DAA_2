@@ -19,7 +19,7 @@ se desarrollaron los métodos en la clase Grafo:
 * Imágenes de los Modelos Generadas con gephi
 * Modelo de Mallas
 ** 30 nodos(5x6)
-[[./img/Images/Mallas/mallas_30.png]]
+[[./Images/Mallas/mallas_30.png]]
 [./img/Images/Mallas/mallas_30_dfs.png]]
 
 ** 100 nodos(10x10)
