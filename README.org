@@ -21,7 +21,7 @@ se desarrollaron los métodos en la clase Grafo:
 ** 30 nodos(5x6)
 [[./Images/Mallas/mallas_30.png]]
 **bfs
-[./Images/Mallas/mallas_30_bfs.png]]
+[[./Images/Mallas/mallas_30_bfs.png]]
 
 ** 100 nodos(10x10)
 [[./img/Imagenes/Mallas/mallas_100_nodos.png]]
