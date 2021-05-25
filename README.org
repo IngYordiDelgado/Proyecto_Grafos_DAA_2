@@ -7,11 +7,13 @@
 Yordi Edgardo Delgado Ortiz 
 
 * Información:
-Biblioteca para describir y utilizar grafos.
-
-El presente Código fue desarrollado de acuerdo con las especificaciones proporcionadas, contiene las 3 clases requeridas Grafo, Nodo, Arista, así como una clase parser_writer que se encarga de hacer la conversión a lenguaje .dot y guardar el grafo generado en formato Graphviz.
-
-Se generaron las imágenes correspondientes a cada modelo, las cuales se muestran a continuación 
+Utilizando la biblioteca de grafos desarrollada en el proyecto 1, se implementaron 
+los algoritmos BFS y DFS (recursivo e iterativo) de tal forma que dado un nodo
+fuente (s), calcula el árbol inducido por los algoritmos mencionados; es decir,
+se desarrollaron los métodos en la clase Grafo:
+- =def dfs(self, s)=
+- =def dfs_i(self, s)=
+- =def dfs_r(self, s)=
 
  
 * Imágenes de los Modelos Generadas con gephi
