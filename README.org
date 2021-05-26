@@ -20,7 +20,7 @@ se desarrollaron los métodos en la clase Grafo:
 * Modelo de Mallas
 ** 30 nodos(5x6)
 [[./Images/Mallas/mallas_30.png]]
-BFS
+*** BFS
 [[./Images/Mallas/mallas_30_bfs.png]]
 
 ** 100 nodos(10x10)
