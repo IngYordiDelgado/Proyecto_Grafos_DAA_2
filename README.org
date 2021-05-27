@@ -132,7 +132,13 @@ se desarrollaron los métodos en la clase Grafo:
 
 * Modelo Barabasi
 ** 30 nodos y grado 10
-[[./img/Imagenes/Babarasi/grafo_babarasi_30_10.png]]
+[[./Images/Babarasi/Babarasi_30.png]]
+*** BFS
+[[./Images/Babarasi/Babarasi_30_bfs.png]]
+*** DFS Iterativo
+[[./Images/Babarasi/Babarasi_30_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Babarasi/Babarasi_30_dfs_r.png]]
 
 ** 100 nodos y grado 7
 [[./img/Imagenes/Babarasi/grafo_babarasi_100_07.png]]
