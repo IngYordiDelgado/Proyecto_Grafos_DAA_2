@@ -48,7 +48,7 @@ se desarrollaron los métodos en la clase Grafo:
 
 * Modelo de Erdos y Renyi
 ** 30 Nodos y 200 Aristas
-[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_30_200.png ]]
+[[./Images/Erdos/erdos_30.png]]
 
 
 ** 100 Nodos y 400 Aristas
