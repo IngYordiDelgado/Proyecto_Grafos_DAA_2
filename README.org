@@ -121,7 +121,7 @@ se desarrollaron los métodos en la clase Grafo:
 [[./Images/Geografico/geografico_100_dfs_i.png]]
 *** DFS Recursivo
 [[./Images/Geografico/geografico_100_dfs_r.png]]
-** 500 nodos y distancia 0.1
+** 500 nodos y distancia 0.15
 [[./Images/Geografico/geografico_500.png]]
 *** BFS
 [[./Images/Geografico/geografico_500_bfs.png]]
@@ -141,15 +141,45 @@ se desarrollaron los métodos en la clase Grafo:
 [[./Images/Babarasi/Babarasi_30_dfs_r.png]]
 
 ** 100 nodos y grado 7
-[[./img/Imagenes/Babarasi/grafo_babarasi_100_07.png]]
+[[./Images/Babarasi/Babarasi_100.png]]
+*** BFS
+[[./Images/Babarasi/Babarasi_100_bfs.png]]
+*** DFS Iterativo
+[[./Images/Babarasi/Babarasi_100_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Babarasi/Babarasi_100_dfs_r.png]]
 
 ** 500 nodos y grado 12
-[[img/Imagenes/Babarasi/grafo_babarasi_500_12.png]]
+[[./Images/Babarasi/Babarasi_500.png]]
+*** BFS
+[[./Images/Babarasi/Babarasi_500_bfs.png]]
+*** DFS Iterativo
+[[./Images/Babarasi/Babarasi_500_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Babarasi/Babarasi_500_dfs_r.png]]
 
 * Modelo Dorogovtsev
 ** 30 nodos
-[[./img/Imagenes/Dogorostev/grafo_dorogovtsev_mendes_30.png]]
+[[./Images/Dogorostev/Dogorostev_30.png]]
+*** BFS
+[[./Images/Dogorostev/Dogorostev_30_bfs.png]]
+*** DFS Iterativo
+[[./Images/Dogorostev/Dogorostev_30_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Dogorostev/Dogorostev_30_dfs_r.png]]
 ** 100 nodos
-[[img/Imagenes/Dogorostev/grafo_dorogovtsev_mendes_100.png]]
+[[./Images/Dogorostev/Dogorostev_100.png]]
+*** BFS
+[[./Images/Dogorostev/Dogorostev_100_bfs.png]]
+*** DFS Iterativo
+[[./Images/Dogorostev/Dogorostev_100_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Dogorostev/Dogorostev_100_dfs_r.png]]
 ** 500 nodos
-[[img/Imagenes/Dogorostev/grafo_dorogovtsev_mendes_500.png]]
+[[./Images/Dogorostev/Dogorostev_500.png]]
+*** BFS
+[[./Images/Dogorostev/Dogorostev_500_bfs.png]]
+*** DFS Iterativo
+[[./Images/Dogorostev/Dogorostev_500_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Dogorostev/Dogorostev_500_dfs_r.png]]
