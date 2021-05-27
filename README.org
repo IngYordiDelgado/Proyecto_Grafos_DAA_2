@@ -68,11 +68,23 @@ se desarrollaron los métodos en la clase Grafo:
 
 
 ** 500 Nodos y 2500 Aristas
-[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_500_2500.png ]]
+[[./Images/Erdos/Erdos_500.png]]
+*** BFS
+[[./Images/Erdos/Erdos_500_bfs.png]]
+*** DFS Iterativo
+[[./Images/Erdos/Erdos_500_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Erdos/Erdos_500_dfs_r.png]]
 
 * Modelo de Gilbert
 ** 30 nodos y probabilidad 0.5
-[[./img/Imagenes/Gilbert/grafo_gilbert_30_5.png]]
+[[./Images/Gilbert/gilbert_30.png]]
+*** BFS
+[[./Images/Erdos/Erdos_30_bfs.png]]
+*** DFS Iterativo
+[[./Images/Erdos/Erdos_30_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Erdos/Erdos_30_dfs_r.png]]
 
 ** 100 nodos y probabilidad 0.3
 [[./img/Imagenes/Gilbert/grafo_gilbert_100_03.png]]
