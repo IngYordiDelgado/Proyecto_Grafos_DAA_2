@@ -78,13 +78,13 @@ se desarrollaron los métodos en la clase Grafo:
 
 * Modelo de Gilbert
 ** 30 nodos y probabilidad 0.5
-[[./Images/Gilbert/gilbert_30.png]]
+[[./Images/Gilbert/Gilbert_30.png]]
 *** BFS
-[[./Images/Erdos/Erdos_30_bfs.png]]
+[[./Images/Gilbert/Gilbert_30_bfs.png]]
 *** DFS Iterativo
-[[./Images/Erdos/Erdos_30_dfs_i.png]]
+[[./Images/Gilbert/Gilbert_30_dfs_i.png]]
 *** DFS Recursivo
-[[./Images/Erdos/Erdos_30_dfs_r.png]]
+[[./Images/Gilbert/Gilbert_30_dfs_r.png]]
 
 ** 100 nodos y probabilidad 0.3
 [[./img/Imagenes/Gilbert/grafo_gilbert_100_03.png]]
