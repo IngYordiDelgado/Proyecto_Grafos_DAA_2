@@ -105,15 +105,30 @@ se desarrollaron los métodos en la clase Grafo:
 [[./Images/Gilbert/Gilbert_500_dfs_r.png]]
 * Modelo Geográfico
 ** 30 nodos y distancia 0.5
-[[./img/Imagenes/Geografico/grafo_geografico_30_05.png]]
+[[./Images/Geografico/geografico_30.png]]
+*** BFS
+[[./Images/Geografico/geografico_30_bfs.png]]
+*** DFS Iterativo
+[[./Images/Geografico/geografico_30_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Geografico/geografico_30_dfs_r.png]]
 
 ** 100 nodos y distancia 0.3
-
-[[./img/Imagenes/Geografico/grafo_geografico_100_03.png]]
-
+[[./Images/Geografico/geografico_100.png]]
+*** BFS
+[[./Images/Geografico/geografico_100_bfs.png]]
+*** DFS Iterativo
+[[./Images/Geografico/geografico_100_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Geografico/geografico_100_dfs_r.png]]
 ** 500 nodos y distancia 0.1
-
-[[./img/Imagenes/Geografico/grafo_geografico_500_01.png]]
+[[./Images/Geografico/geografico_500.png]]
+*** BFS
+[[./Images/Geografico/geografico_500_bfs.png]]
+*** DFS Iterativo
+[[./Images/Geografico/geografico_500_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Geografico/geografico_500_dfs_r.png]]
 
 * Modelo Barabasi
 ** 30 nodos y grado 10
