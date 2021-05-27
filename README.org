@@ -58,7 +58,13 @@ se desarrollaron los métodos en la clase Grafo:
 
 
 ** 100 Nodos y 400 Aristas
-[[./img/Imagenes/Erdös_y_Rény/Erdös_y_Rény_100_400.png ]]
+[[./Images/Erdos/Erdos_100.png]]
+*** BFS
+[[./Images/Erdos/Erdos_100_bfs.png]]
+*** DFS Iterativo
+[[./Images/Erdos/Erdos_100_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Erdos/Erdos_100_dfs_r.png]]
 
 
 ** 500 Nodos y 2500 Aristas
