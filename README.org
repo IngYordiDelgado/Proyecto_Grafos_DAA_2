@@ -22,12 +22,29 @@ se desarrollaron los métodos en la clase Grafo:
 [[./Images/Mallas/mallas_30.png]]
 *** BFS
 [[./Images/Mallas/mallas_30_bfs.png]]
+*** DFS Iterativo
+[[./Images/Mallas/mallas_30_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Mallas/mallas_30_dfs_r.png]]
 
 ** 100 nodos(10x10)
-[[./img/Imagenes/Mallas/mallas_100_nodos.png]]
+[[./Images/Mallas/mallas_100.png]]
+*** BFS
+[[./Images/Mallas/mallas_100_bfs.png]]
+*** DFS Iterativo
+[[./Images/Mallas/mallas_100_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Mallas/mallas_100_dfs_r.png]]
 
 ** 500 nodos(50x10)
-[[./img/Imagenes/Mallas/mallas_500_nodos.png]]
+[[./Images/Mallas/mallas_500.png]]
+*** BFS
+[[./Images/Mallas/mallas_500_bfs.png]]
+*** DFS Iterativo
+[[./Images/Mallas/mallas_500_dfs_i.png]]
+*** DFS Recursivo
+[[./Images/Mallas/mallas_500_dfs_r.png]]
+
 
 * Modelo de Erdos y Renyi
 ** 30 Nodos y 200 Aristas
